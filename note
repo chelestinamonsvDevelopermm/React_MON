@@ -1,0 +1,2 @@
+react ---- creating views (createElement)
+react-dom ----- render view (createRoot, render)
